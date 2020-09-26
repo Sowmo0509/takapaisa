@@ -10,6 +10,11 @@ function getInfo(){
         alert("Login successful!");
         window.open("https://www.google.com","_self");
     }
+    else if(username=="ahmedhasan" && password=="chapa"){
+        alert("Login successful!");
+        alert("Welcome Ahmed Hasan!");
+        window.open("https://www.google.com","_self");
+    }
     else{
         alert("Incorrect Login");
         alert("Please collect your username and password");
