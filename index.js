@@ -6,11 +6,7 @@ function getInfo(){
         alert("Login successful!");
         window.open("https://www.google.com","_self");
     }
-    else if(username=="user" && password=="test"){
-        alert("Login successful!");
-        window.open("https://www.google.com","_self");
-    }
-    else if(username=="mehedi" && password=="chapa"){
+    else if(username=="usermehedi" && password=="mama"){
         alert("Login successful!");
         alert("Welcome Ahmed Hasan!");
         window.open("https://www.google.com","_self");
